@@ -1,0 +1,52 @@
+{
+  "name": "webdev-extension-pack",
+  "displayName": "J2deme Webdev Extension Pack",
+  "version": "1.0.1",
+  "preview": false,
+  "publisher": "j2deme",
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#3b82f6",
+    "theme": "dark"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Jaime Jesús Delgado Meraz",
+    "email": "jaime.dm@cdvalles.tecnm.mx"
+  },
+  "description": "Extensiones recomendadas para Desarrollo Web.",
+  "pricing": "Free",
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "formulahendry.auto-rename-tag",
+    "formulahendry.auto-close-tag",
+    "naumovs.color-highlight",
+    "pranaygp.vscode-css-peek",
+    "phoenisx.cssvar",
+    "usernamehw.errorlens",
+    "zignd.html-css-class-completion",
+    "ritwickdey.liveserver",
+    "esbenp.prettier-vscode",
+    "christian-kohler.path-intellisense",
+    "dbaeumer.vscode-eslint",
+    "jomeinaster.bracket-peek",
+    "viablelab.bracket-padder"
+  ],
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/j2deme/webdev-extension-pack.git"
+  },
+  "keywords": [
+    "webdev",
+    "html",
+    "css",
+    "javascript",
+    "extension",
+    "pack"
+  ]
+}
