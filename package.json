@@ -1,7 +1,7 @@
 {
   "name": "webdev-extension-pack",
   "displayName": "J2deme Webdev Extension Pack",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "preview": false,
   "publisher": "j2deme",
   "icon": "icon.png",
