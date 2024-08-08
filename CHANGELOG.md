@@ -2,7 +2,7 @@
 
 Todos los cambios importantes al paquete de extensiones "J2deme Webdev Extension Pack" serán documentados en este archivo.
 
-## 1.0.2 - 2024 - 08 - 08
+## 1.0.2 - 2024 - 08 - 06
 
 - Agrega ESLint a las extensiones sugeridas.
 - Agrega Bracket Peek a las extensiones sugeridas.
